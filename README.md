@@ -6,9 +6,7 @@ Hi, I'm Vishnu Sathwik Rebally!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a style="width: 30px;
-  height: 30px;
-  border-radius: 50%; /*don't forget prefixes*/" href="github.com/vishnusathwik"><img src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
+  <a href="github.com/vishnusathwik"><img width ="30"src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
