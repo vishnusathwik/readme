@@ -23,7 +23,7 @@ vishnusathwik@github
 ```
 <hr>
 
-
+<br>
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
