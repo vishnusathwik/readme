@@ -9,7 +9,7 @@ Hi, I'm Vishnu Sathwik Rebally!
 
   
   
-  <a target="_blank" href="www.github.com/vishnusathwik">Profile URL 
+<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
 ```
 vishnusathwik@github
 -------------------------
