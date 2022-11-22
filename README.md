@@ -4,9 +4,6 @@ Hi, I'm Vishnu Sathwik Rebally!
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishnusathwik" />-->
 <br/>
 
-<a target="_blank" href="www.github.com/vishnusathwik"><img align="left" src="https://www.kindpng.com/picc/m/35-351416_transparent-sasuke-png-sasuke-rinnegan-png-download.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="260" />
-<hr>
-
 <a href="https://github.com/vishnusathwik" target="_blank"/>GitHub Profile!
   
   
