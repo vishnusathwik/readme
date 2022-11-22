@@ -22,7 +22,8 @@ vishnusathwik@github
 🎵 Love metal,phonk,and pop 
 ```
 <hr>
-### Languages I use
+## 🛠️ My Favorite Tools
+
 ### 👨‍💻 Programming Languages
 
 <p>
