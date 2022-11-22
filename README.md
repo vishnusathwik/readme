@@ -8,7 +8,7 @@ Hi, I'm Vishnu Sathwik Rebally!
   <a href="www.github.com/vishnusathwik"><img width ="60"src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
 </p>
 
-<img align="left" src="[https://github.com/vishnusathwik/vishnusathwik/blob/main/cropped_image.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32b8f7d9-0d6c-4e2f-b737-eea02c841b00/d838q2s-7b002975-2907-467f-a488-749b8d0e5fe8.png/v1/fill/w_1192,h_670,strp/sasuke_uchiha__rinnegan__by_uchihaclanancestor_d838q2s-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzMyYjhmN2Q5LTBkNmMtNGUyZi1iNzM3LWVlYTAyYzg0MWIwMFwvZDgzOHEycy03YjAwMjk3NS0yOTA3LTQ2N2YtYTQ4OC03NDliOGQwZTVmZTgucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Kf5hZQdpIVhC9HuaQMR6QPfB61xmimy7OtYeO6-nQYo)" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src=""https://www.kindpng.com/picc/m/35-351416_transparent-sasuke-png-sasuke-rinnegan-png-download.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
