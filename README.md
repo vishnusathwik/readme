@@ -4,11 +4,7 @@ Hi, I'm Vishnu Sathwik Rebally!
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishnusathwik" />-->
 <br/>
 
-<p align="center">
-  <a href="www.github.com/vishnusathwik"><img width ="60"src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
-</p>
-
-<img align="left" src="https://www.kindpng.com/picc/m/35-351416_transparent-sasuke-png-sasuke-rinnegan-png-download.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="260" />
+<a target="_blank" href="www.github.com/vishnusathwik"><img align="left" src="https://www.kindpng.com/picc/m/35-351416_transparent-sasuke-png-sasuke-rinnegan-png-download.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="260" />
 <hr>
 
 ```
@@ -22,7 +18,7 @@ vishnusathwik@github
 🎵 Love metal,phonk,and pop 
 ```
 <hr>
-##
+
 
 ### 👨‍💻 Programming Languages
 
