@@ -22,7 +22,7 @@ vishnusathwik@github
 🎵 Love metal,phonk,and pop 
 ```
 <hr>
-
+<br/>
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
