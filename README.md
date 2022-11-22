@@ -4,12 +4,11 @@ Hi, I'm Vishnu Sathwik Rebally!
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishnusathwik" />-->
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="www.github.com/vishnusathwik"><img width ="60"src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/vishnusathwik/vishnusathwik/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
