@@ -9,6 +9,7 @@ Hi, I'm Vishnu Sathwik Rebally!
 
 ```
 vishnusathwik@github
+<a target="_blank" href="www.github.com/vishnusathwik">Profile URL 
 -------------------------
 💻 Learning code and dev
 📚 I have a Bachelors in Computer Science from the CBIT in Hyderabad
