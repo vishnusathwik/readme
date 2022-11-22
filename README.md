@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<img src="https://profile-counter.glitch.me/vishnusathwik/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
@@ -24,13 +24,13 @@
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AvidCoder101/vishnusathwik/blob/output/github-contribution-grid-snake.gif)
 
 
 ### Some of my public repositories (not forks):
 
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
+- **[My Profile Repo - vishnusathwik](https://github.com/vishnusathwik)**
+- **[My BMI Calculator Repo - vishnusathwik/BMICalculator](https://github.com/vishnusathwikBMICalculator)**
 - **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
 - **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
 - **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
