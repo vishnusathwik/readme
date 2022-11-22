@@ -6,8 +6,8 @@ Hi, I'm Vishnu Sathwik Rebally!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a style="width: 300px;
-  height: 300px;
+  <a style="width: 30px;
+  height: 30px;
   border-radius: 50%; /*don't forget prefixes*/" href="github.com/vishnusathwik"><img src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
 </p>
 
