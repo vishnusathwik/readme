@@ -11,7 +11,7 @@ Hi, I'm Vishnu Sathwik Rebally!
 vishnusathwik@github
 -------------------------
 💻 Learning code and dev
-📚 I have a Bachelors in Computer Science from the CBIT in Hyderabad
+📚 Iam pursuing a Bachelors in Computer Science from the CBIT in Hyderabad
 📝 I have a strong interest to learn Data Science,Artificial Intelligence and ML
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
