@@ -8,7 +8,7 @@ Hi, I'm Vishnu Sathwik Rebally!
   <a href="www.github.com/vishnusathwik"><img width ="60"src="https://img.freepik.com/premium-vector/3d-realistic-mouse-cursor-vector-illustration_156780-321.jpg?w=826"></a>
 </p>
 
-<img align="left" src=""https://www.kindpng.com/picc/m/35-351416_transparent-sasuke-png-sasuke-rinnegan-png-download.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://www.kindpng.com/picc/m/35-351416_transparent-sasuke-png-sasuke-rinnegan-png-download.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
