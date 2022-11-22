@@ -54,7 +54,6 @@ vishnusathwik@github
 |                                                                     Vishnu's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Vishnu's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vishnusathwik&theme=react-dark&hide_border=true&area=true) |
-| ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=vishnusathwik&show_icons=true&theme=algolia)              | 
     
 
 |                                                                                                      Vishnu's Stars                                                                                                       |                                                           Top Languages                                                           |      
