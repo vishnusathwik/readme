@@ -47,15 +47,7 @@ vishnusathwik@github
 </p>
 
 
-## GitHub Stats
-
-
-|                                                                     Vishnu's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishnu's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vishnusathwik&theme=react-dark&hide_border=true&area=true) |
-    
-
-|                                                                                                      Vishnu's Stars                                                                                                       |                                                           Top Languages                                                           |      
+                                                    |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vishnusathwik&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusathwik&langs_count=8&theme=algolia&layout=compact) |
 
