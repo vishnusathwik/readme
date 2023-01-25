@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://media.tenor.com/B8PvHQ3BhuoAAAAd/kakashi-kakashi-hatake.gif" width="30"> </h1>
+<h1 align="center">Hello There<img src="https://media.tenor.com/B8PvHQ3BhuoAAAAd/kakashi-kakashi-hatake.gif" width="30" padding = "10"> </h1>
 
 ### :smiley_cat: I'm Vishnu Sathwik Rebally!  
 <a href="https://github.com/vishnusathwik" target="_blank"/>GitHub Profile!
@@ -46,8 +46,8 @@ vishnusathwik@github
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-vishnusathwik03@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
+## Mail me at 
+📫 [![Gmail Badge](https://img.shields.io/badge/-vishnusathwik03@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:vishnusathwik03@gmail.com)](vishnusathwik03@gmail.com)
 
 <h6 align="center">Made with ❤️ by Me (not sure)</h6>
 
