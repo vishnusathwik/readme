@@ -1,5 +1,5 @@
-<h1 align="center">Hello There<br><br><br>
-<img src="https://media.tenor.com/B8PvHQ3BhuoAAAAd/kakashi-kakashi-hatake.gif" width="110" height="110" padding = "10"> </h1>
+<h1 align="center">Hello There<br><br>
+<img src="https://media.tenor.com/B8PvHQ3BhuoAAAAd/kakashi-kakashi-hatake.gif" width="180" height="180" padding = "10"> </h1>
 
 ### :smiley_cat: I'm Vishnu Sathwik Rebally!  
 <a href="https://github.com/vishnusathwik" target="_blank"/>GitHub Profile!
