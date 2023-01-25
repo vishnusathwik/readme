@@ -1,14 +1,8 @@
-<h1 align="center">
-Hi, I'm Vishnu Sathwik Rebally!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishnusathwik" />-->
-<br/>
- <img src="[https://tutorialspoint.com/images/html.gif](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)">
+<h1 align="center">Hello There<img src="https://media.tenor.com/B8PvHQ3BhuoAAAAd/kakashi-kakashi-hatake.gif" width="30"> </h1>
 
-
+### :smiley_cat: I'm Vishnu Sathwik Rebally!  
 <a href="https://github.com/vishnusathwik" target="_blank"/>GitHub Profile!
-  
-  
+
 ```
 vishnusathwik@github
 -------------------------
@@ -22,6 +16,7 @@ vishnusathwik@github
 <hr>
 
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -43,17 +38,17 @@ vishnusathwik@github
 </p>
 
 
-<p>
-</p>
-![Github Stars](https://github-readme-stats.vercel.app/api?username=vishnusathwik&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusathwik&langs_count=8&theme=algolia&layout=compact) |
 
+## By the way here are some of my statistics 🚀
+![Vishnu Sathwik's github stats](https://github-readme-stats.vercel.app/api?username=vishnusathwik&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnusathwik&theme=tokyonight" alt="mystreak"/>
+![Vishnu Sathwik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusathwik&theme=tokyonight&layout=compact)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-vishnusathwik03@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-  </tr>
-</table>
+<h6 align="center">Made with ❤️ by Me (not sure)</h6>
 
-
+------
